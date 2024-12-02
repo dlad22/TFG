@@ -1,0 +1,2 @@
+iteration  epsilon  energy  reg_energy  im_energy  gV_inf  rel_en_0  rel_im_0  rel_gV_0  rel_err  viol_CFL  soft_viol  h_tmax  1/Max  CFL_number  time_iter 
+iteration  epsilon  energy  reg_energy  im_energy  gV_inf  rel_en_0  rel_im_0  rel_gV_0  rel_err  viol_CFL  soft_viol  h_tmax  1/Max  CFL_number  time_iter 
